@@ -7,13 +7,13 @@ about:
   image-shape: round
   image-width: 14em
   links:
-    - icon: envelope
+    - text: "{{< iconify material-symbols:mail >}}"
       href: mailto:<anja.shahu@gmail.com>
-    - icon: github
+    - text: "{{< iconify fa6-brands github >}}"
       href: http://github.com/anjashahu/
-    - icon: linkedin
+    - text: "{{< iconify fa6-brands linkedin >}}"
       href: https://www.linkedin.com/in/anja-shahu-75a58719b/
-    - icon: newspaper
+    - text: "{{< iconify fa6-brands google-scholar >}}"
       href: https://scholar.google.com/citations?hl=en&user=CNfqlPkAAAAJ
 ---
 
