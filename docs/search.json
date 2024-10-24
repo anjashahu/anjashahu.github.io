@@ -1,23 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Published\n\nShahu, A., Chung, J., Tarraf, W., Ramos, A. R., González, H. M., Redline, S., … & Sofer, T. (2023). Method comparison and estimation of causal effects of insomnia on health outcomes in a survey sampled population. Scientific reports, 13(1), 9831.\n\n\n\nIn Progress/Under Review\n\nHilden P., Shahu, A., Gibson E.A., Wright J., Kioumourtzoglou M.A., Goldsmith J. Robust Decomposition of Accelerometer Data through Functional Principal Component Pursuit. Under review.\nShahu, A., Malinsky, D. Causal Inference of Rates of Change Based on Longitudinal Modified Treatment Policies (LMTPs). In preparation.\nShahu, A., Navas-Acien A., Suchy-Dicey A., Buchwald D., Goldsmith J., Domingo Relloso A., Valeri L. Association of Metal Mixtures with Cognitive Function in the Strong Heart Study. In preparation."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Anja Shahu",
     "section": "",
-    "text": "About Me\nI am a Biostatistics PhD candidate at Columbia University, advised by Dr. Daniel Malinsky. My research revolves primarily around causal inference with applications related to environmental health and mental health. My current research project focuses on developing methods for conducting causal inference of rates of change in longitudinal settings that have complications, such as complex missingness and irregular assessment times.\n\n\n\nEducation\nPhD in Biostatistics\nColumbia University\nGraduation: May 2027 (Expected)\nMS in Biostatistics\nHarvard University\nGraduation: May 2022\nBA in Public Health Studies\nJohns Hopkins University\nGraduation: May 2020"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Published\n\nShahu, A., Chung, J., Tarraf, W., Ramos, A. R., González, H. M., Redline, S., … & Sofer, T. (2023). Method comparison and estimation of causal effects of insomnia on health outcomes in a survey sampled population. Scientific reports, 13(1), 9831.\n\n\n\nIn Progress/Under Review\n\nHilden P., Shahu, A., Gibson E.A., Wright J., Kioumourtzoglou M.A., Goldsmith J. Robust Decomposition of Accelerometer Data through Functional Principal Component Pursuit. Under review.\nShahu, A., Malinsky, D. Causal Inference of Rates of Change Based on Longitudinal Modified Treatment Policies (LMTPs). In preparation.\nShahu, A., Navas-Acien A., Suchy-Dicey A., Buchwald D., Goldsmith J., Domingo Relloso A., Valeri L. Association of Metal Mixtures with Cognitive Function in the Strong Heart Study. In preparation."
+    "text": "About Me\nI am a Biostatistics PhD candidate at Columbia University, advised by Dr. Daniel Malinsky. My research revolves primarily around causal inference with applications related to environmental health and mental health. My current research project focuses on developing methods for conducting causal inference of rates of change in longitudinal settings that have complications, such as time-varying confounding, complex missingness and irregular assessment times.\n\n\n\nEducation\nPhD in Biostatistics\nColumbia University\nGraduation: May 2027 (Expected)\nMS in Biostatistics\nHarvard University\nGraduation: May 2022\nBA in Public Health Studies\nJohns Hopkins University\nGraduation: May 2020"
   }
 ]

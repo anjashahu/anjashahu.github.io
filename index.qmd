@@ -19,7 +19,7 @@ about:
 
 ### About Me
 
-I am a Biostatistics PhD candidate at [Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics), advised by [Dr. Daniel Malinsky](http://www.dmalinsky.com/). My research revolves primarily around causal inference with applications related to environmental health and mental health. My current research project focuses on developing methods for conducting causal inference of rates of change in longitudinal settings that have complications, such as complex missingness and irregular assessment times.  
+I am a Biostatistics PhD candidate at [Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics), advised by [Dr. Daniel Malinsky](http://www.dmalinsky.com/). My research revolves primarily around causal inference with applications related to environmental health and mental health. My current research project focuses on developing methods for conducting causal inference of rates of change in longitudinal settings that have complications, such as time-varying confounding, complex missingness and irregular assessment times.
 
 --------------------------------------------------------------------------------
 
