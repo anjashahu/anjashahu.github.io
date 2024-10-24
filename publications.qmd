@@ -1,0 +1,17 @@
+---
+title: "Publications"
+---
+
+### Published
+
+- **Shahu, A.**, Chung, J., Tarraf, W., Ramos, A. R., González, H. M., Redline, S., ... & Sofer, T. (2023). Method comparison and estimation of causal effects of insomnia on health outcomes in a survey sampled population. Scientific reports, 13(1), 9831.
+
+
+### In Progress/Under Review
+
+- Hilden P., **Shahu, A.**, Gibson E.A., Wright J., Kioumourtzoglou M.A., Goldsmith J. Robust Decomposition of Accelerometer Data through Functional Principal Component Pursuit. Under review.
+
+- **Shahu, A.**, Malinsky, D. Causal Inference of Rates of Change Based on Longitudinal Modified Treatment Policies (LMTPs). In preparation.
+
+- **Shahu, A.**, Navas-Acien A., Suchy-Dicey A., Buchwald D., Goldsmith J., Domingo Relloso A., Valeri L. Association of Metal Mixtures with Cognitive Function in the Strong Heart Study. In preparation.
+

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anja Shahu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: 20241024_resume.pdf
+        text: Resume
+
+format:
+  html:
+    theme: 
+      light: minty
+      dark: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+

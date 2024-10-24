@@ -1,0 +1,39 @@
+---
+title: "Anja Shahu"
+image: anja.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      href: mailto:<anja.shahu@gmail.com>
+    - icon: github
+      href: http://github.com/anjashahu/
+    - icon: linkedin
+      href: https://www.linkedin.com/in/anja-shahu-75a58719b/
+    - icon: newspaper
+      href: https://scholar.google.com/citations?hl=en&user=CNfqlPkAAAAJ
+---
+
+### About Me
+
+I am a Biostatistics PhD candidate at [Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics), advised by [Dr. Daniel Malinsky](http://www.dmalinsky.com/). My research revolves primarily around causal inference with applications related to environmental health and mental health. My current research project focuses on developing methods for conducting causal inference of rates of change in longitudinal settings that have complications, such as complex missingness and irregular assessment times.  
+
+--------------------------------------------------------------------------------
+
+### Education
+
+**PhD in Biostatistics**  
+*Columbia University*  
+Graduation: May 2027 (Expected)
+
+**MS in Biostatistics**  
+*Harvard University*  
+Graduation: May 2022
+
+**BA in Public Health Studies**  
+*Johns Hopkins University*   
+Graduation: May 2020
+
