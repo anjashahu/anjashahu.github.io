@@ -10,7 +10,7 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
-      - href: 20241024_resume.pdf
+      - href: 20241025_resume.pdf
         text: Resume
 
 format:
